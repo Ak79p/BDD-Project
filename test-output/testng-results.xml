@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69418" started-at="2022-10-17T19:21:37 IST" finished-at="2022-10-17T19:22:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69418" started-at="2022-10-17T19:21:37 IST" finished-at="2022-10-17T19:22:47 IST">
+      <class name="Automation.OpenMRS.OpenMRS_Test">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="initializeTest" is-config="true" duration-ms="6759" started-at="2022-10-17T19:21:37 IST" finished-at="2022-10-17T19:21:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="Login_test()[pri:1, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="Login_test" duration-ms="1911" started-at="2022-10-17T19:21:44 IST" finished-at="2022-10-17T19:21:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_test -->
+        <test-method status="PASS" signature="Register_test()[pri:2, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="Register_test" duration-ms="10696" started-at="2022-10-17T19:21:46 IST" finished-at="2022-10-17T19:21:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_test -->
+        <test-method status="PASS" signature="findPatient_test()[pri:3, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="findPatient_test" duration-ms="2417" started-at="2022-10-17T19:21:57 IST" finished-at="2022-10-17T19:21:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPatient_test -->
+        <test-method status="PASS" signature="viewPatient_Test()[pri:4, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="viewPatient_Test" duration-ms="1532" started-at="2022-10-17T19:21:59 IST" finished-at="2022-10-17T19:22:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewPatient_Test -->
+        <test-method status="PASS" signature="bookAppointment_Test()[pri:5, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="bookAppointment_Test" duration-ms="8291" started-at="2022-10-17T19:22:01 IST" finished-at="2022-10-17T19:22:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookAppointment_Test -->
+        <test-method status="PASS" signature="addAttachment_Test()[pri:6, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="addAttachment_Test" duration-ms="13043" started-at="2022-10-17T19:22:09 IST" finished-at="2022-10-17T19:22:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAttachment_Test -->
+        <test-method status="PASS" signature="delete_Test()[pri:7, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="delete_Test" duration-ms="3300" started-at="2022-10-17T19:22:22 IST" finished-at="2022-10-17T19:22:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Test -->
+        <test-method status="PASS" signature="logout_Test()[pri:8, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="logout_Test" duration-ms="5189" started-at="2022-10-17T19:22:25 IST" finished-at="2022-10-17T19:22:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Automation.OpenMRS.OpenMRS_Test@636be97c]" name="tearDown" is-config="true" duration-ms="16238" started-at="2022-10-17T19:22:30 IST" finished-at="2022-10-17T19:22:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.OpenMRS.OpenMRS_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
